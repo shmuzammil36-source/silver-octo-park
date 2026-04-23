@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+playwright
+pdfkit
+requests
+python-magic
+pyspellchecker
+pydantic
+python-multipart
